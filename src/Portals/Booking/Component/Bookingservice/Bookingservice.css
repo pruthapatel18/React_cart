@@ -1,0 +1,101 @@
+
+  .mph1{
+   margin-top: 10%;
+   margin-bottom: 10%;
+   margin-left: 30px;
+   width: -10px;
+   height: 20%;
+ }
+ 
+ .FN{
+    margin-bottom: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 52%;
+    margin-top: -35%;
+    height: 35px;
+
+ }
+ .FN1{
+    margin-bottom: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 72%;
+    margin-top: -83%;
+    height: 35px;
+
+ }
+ .FN2{
+    margin-bottom: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 52%;
+    margin-top: -77%;
+    height: 35px;
+
+
+ }
+ .FN3{
+    margin-bottom: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 72%;
+    margin-top: -83.1%;
+    height: 35px;
+
+ }
+.drop{
+    
+        margin-bottom: 80%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        margin-left: 52%;
+        margin-top: -76.7%;
+        height: 39px;
+        width: 15.7%;
+        
+}
+
+.drop1{
+    
+    margin-bottom: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    margin-left: 72%;
+    margin-top: -83%;
+    height: 39px;
+    width: 15.7%;
+    
+}
+.book-done{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: flex-end;
+    margin-left: 65%;
+    margin-top: -75%;
+    margin-bottom: 10%;
+    height: 30px;
+    padding:  6px;     
+}
+.white-smoke--shape{
+    display: flex;
+    flex-direction: column;
+    justify-content:right;
+    align-items: flex-end; 
+}
+.main-back-ground{
+    border-color: aqua;
+}

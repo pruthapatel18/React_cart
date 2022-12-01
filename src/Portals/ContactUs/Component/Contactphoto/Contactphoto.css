@@ -1,0 +1,121 @@
+ .mainp{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: flex-start;
+    height: 30%;
+    width: 20%;
+    margin-left:16%;
+    margin-top: -55%;
+    
+ }
+
+ .mainpa{
+    height: 30%;
+    width: 20%;
+    margin-top: 5%;
+    margin-left: 16%;
+ }
+ .mainpaa{
+    
+    height: 30%;
+    width: 20%;
+    margin-top: 6%;
+    margin-left: 16%;
+
+}
+
+.white-smoke--shape{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+    width: 700px;
+    margin-left: 28%;
+    background-color: rgb(211, 236, 248);
+    margin-top: 20px;
+}
+
+.in{
+    font-weight: 400;
+    font-size: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: flex_center;
+    margin-left: 47%;
+    margin-top: -50%; 
+    margin-bottom: 15%;
+    
+}
+.name{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex_center;
+    margin-left: 42%;
+    margin-top: -10%;
+    margin-bottom: 48%;
+    size: 90px;
+    height: 50px;
+    width: 30%;
+}
+
+.name1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex_center;
+    margin-left: 42%;
+    margin-top: -43%;
+    margin-bottom: 48%;
+    size: 90px;
+    height: 50px;
+    width: 30%;
+    
+    
+}.name2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex_center;
+    margin-left: 42%;
+    margin-top: -43%;
+    margin-bottom: 48%;
+    size: 90px;
+    height: 50px;
+    width: 30%;
+    
+    
+}
+.name3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex_center;
+    margin-left: 42%;
+    margin-top: -43%;
+    margin-bottom: 48%;
+    size: 90px;
+    height: 50px;
+    width: 30%;
+   
+}
+.done-btn{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex_center;
+    margin-left: 52%;
+    margin-top: -43%;
+    margin-bottom: 10%;
+    size: 90px;
+    height: 50px;
+    width: 10%;
+    padding: 4px 2px;
+    padding-left: 40px;
+    text-align: center;
+    
+   
+}

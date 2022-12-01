@@ -1,0 +1,63 @@
+.white-smoke---shape {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: flex-end;
+    background-color: rgb(224, 224, 218);
+    height: 1000px;
+    width: 800px;
+    margin-left: 35%;
+    margin-top: 5%;    
+} 
+.mph{
+    margin-left: 10%;
+    margin-top: -60%;
+    margin-bottom: -60%;
+}
+
+.maleservice{
+    margin-bottom: 2%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 400px;
+    font-size: x-large;
+    
+
+}
+
+.bookbtn1{
+    /* margin-right: -60%; */
+    margin-top: -45px;
+    height: 25px;
+    width: 10%;
+    font-size: medium;
+    background-color: palevioletred;
+    margin-left: 50%;
+    border-color: palevioletred;
+    
+}
+
+.se{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: xxx-large;
+    margin-left: 30%;
+    font-weight :500;
+    font-style:inherit;
+    margin-top: -10px;
+}
+
+.length{
+    font-weight: 300;
+    font-style: italic;
+    margin-top: 5px;
+
+}
+
+.mainph{
+    margin-bottom: 10%;
+}
